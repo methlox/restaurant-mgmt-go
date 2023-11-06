@@ -3,8 +3,8 @@ package controller
 import (
 	"context"
 	"fmt"
-	"github.com/methlox/restaurant-mgmt-go/database"
-	"github.com/methlox/restaurant-mgmt-go/models"
+	"restaurant-mgmt-go/database"
+	"restaurant-mgmt-go/models"
 	"log"
 	"net/http"
 	"time"

@@ -2,7 +2,7 @@ package middleware
 
 import (
 	"fmt"
-	helper "github.com/methlox/restaurant-mgmt-go/helpers"
+	helper "restaurant-mgmt-go/helpers"
 	"net/http"
 
 	"github.com/gin-gonic/gin"
