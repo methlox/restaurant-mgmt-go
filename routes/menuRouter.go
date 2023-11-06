@@ -1,7 +1,7 @@
 package routes
 
 import (
-	controller "github.com/methlox/restaurant-mgmt-go//controllers"
+	controller "github.com/methlox/restaurant-mgmt-go/controllers"
 
 	"github.com/gin-gonic/gin"
 )

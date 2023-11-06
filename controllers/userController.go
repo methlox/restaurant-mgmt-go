@@ -3,9 +3,9 @@ package controller
 import (
 	"context"
 	"fmt"
-	"golang-restaurant-management/database"
-	helper "golang-restaurant-management/helpers"
-	"golang-restaurant-management/models"
+	"github.com/methlox/restaurant-mgmt-go/database"
+	helper "github.com/methlox/restaurant-mgmt-go/helpers"
+	"github.com/methlox/restaurant-mgmt-go/models"
 	"log"
 	"net/http"
 	"strconv"
