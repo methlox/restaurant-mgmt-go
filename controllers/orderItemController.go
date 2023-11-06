@@ -2,8 +2,8 @@ package controller
 
 import (
 	"context"
-	"golang-restaurant-management/database"
-	"golang-restaurant-management/models"
+	"github.com/methlox/restaurant-mgmt-go/database"
+	"github.com/methlox/restaurant-mgmt-go/models"
 	"log"
 	"net/http"
 	"time"

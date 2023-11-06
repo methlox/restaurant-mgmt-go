@@ -3,7 +3,7 @@ package helper
 import (
 	"context"
 	"fmt"
-	"golang-restaurant-management/database"
+	"github.com/methlox/restaurant-mgmt-go/database"
 	"log"
 	"os"
 	"time"
